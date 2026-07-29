@@ -1,0 +1,330 @@
+2026-07-29T13:50:35.747Z eslint:cli CLI args: [ '.', '--debug' ]
+2026-07-29T13:50:35.751Z eslint:cli Using flat config? true
+2026-07-29T13:50:35.754Z eslint:cli Running on files
+2026-07-29T13:50:35.754Z eslint:eslint Using config loader LegacyConfigLoader
+2026-07-29T13:50:35.754Z eslint:eslint Using file patterns: .
+2026-07-29T13:50:35.754Z eslint:eslint Deleting cache file at /Users/sanscomp/Documents/Code projects/customer-workspace/.eslintcache
+2026-07-29T13:50:35.762Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.git
+2026-07-29T13:50:35.762Z eslint:config-loader Searching for eslint.config.js
+2026-07-29T13:50:35.763Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:35.763Z eslint:config-loader Calculating config array from config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:35.763Z eslint:config-loader Loading config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs
+2026-07-29T13:50:35.763Z eslint:config-loader Loading config from /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs
+2026-07-29T13:50:35.763Z eslint:config-loader Config file URL is file:///Users/sanscomp/Documents/Code%20projects/customer-workspace/eslint.config.mjs
+2026-07-29T13:50:36.240Z eslint:rules Loading rule 'consistent-return' (remaining=291)
+2026-07-29T13:50:36.246Z eslint:rules Loading rule 'dot-notation' (remaining=290)
+2026-07-29T13:50:36.247Z eslint:rules Loading rule 'init-declarations' (remaining=289)
+2026-07-29T13:50:36.248Z eslint:rules Loading rule 'max-params' (remaining=288)
+2026-07-29T13:50:36.256Z eslint:rules Loading rule 'no-dupe-class-members' (remaining=287)
+2026-07-29T13:50:36.258Z eslint:rules Loading rule 'no-empty-function' (remaining=286)
+2026-07-29T13:50:36.262Z eslint:rules Loading rule 'no-invalid-this' (remaining=285)
+2026-07-29T13:50:36.263Z eslint:rules Loading rule 'no-loop-func' (remaining=284)
+2026-07-29T13:50:36.263Z eslint:rules Loading rule 'no-loss-of-precision' (remaining=283)
+2026-07-29T13:50:36.263Z eslint:rules Loading rule 'no-magic-numbers' (remaining=282)
+2026-07-29T13:50:36.272Z eslint:rules Loading rule 'no-restricted-imports' (remaining=281)
+2026-07-29T13:50:36.296Z eslint:rules Loading rule 'no-unused-expressions' (remaining=280)
+2026-07-29T13:50:36.298Z eslint:rules Loading rule 'no-useless-constructor' (remaining=279)
+2026-07-29T13:50:36.303Z eslint:rules Loading rule 'prefer-destructuring' (remaining=278)
+2026-07-29T13:50:36.507Z eslint:config-loader Config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs is not empty
+2026-07-29T13:50:36.507Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.gitignore
+2026-07-29T13:50:36.507Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.gitignore
+2026-07-29T13:50:36.508Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.509Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky
+2026-07-29T13:50:36.509Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.509Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_
+2026-07-29T13:50:36.509Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.509Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/.gitignore
+2026-07-29T13:50:36.509Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/.gitignore
+2026-07-29T13:50:36.509Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.509Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/applypatch-msg
+2026-07-29T13:50:36.509Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/applypatch-msg
+2026-07-29T13:50:36.509Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.509Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/commit-msg
+2026-07-29T13:50:36.509Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/commit-msg
+2026-07-29T13:50:36.509Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.509Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/h
+2026-07-29T13:50:36.509Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/h
+2026-07-29T13:50:36.509Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.510Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/husky.sh
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/husky.sh
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.510Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/post-applypatch
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/post-applypatch
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.510Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/post-checkout
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/post-checkout
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.510Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/post-commit
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/post-commit
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.510Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/post-merge
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/post-merge
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.510Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/post-rewrite
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/post-rewrite
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.510Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/pre-applypatch
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/pre-applypatch
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.510Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/pre-auto-gc
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/pre-auto-gc
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.510Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/pre-commit
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/pre-commit
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.510Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/pre-merge-commit
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/pre-merge-commit
+2026-07-29T13:50:36.510Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.511Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/pre-push
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/pre-push
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.511Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/pre-rebase
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/pre-rebase
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.511Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/prepare-commit-msg
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/_/prepare-commit-msg
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.511Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/pre-commit
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.husky/pre-commit
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.next
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.511Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.prettierignore
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.prettierignore
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.511Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/.prettierrc
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/.prettierrc
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.511Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/AGENTS.md
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/AGENTS.md
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.511Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/CLAUDE.md
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/CLAUDE.md
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.511Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/README.md
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/README.md
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/app
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.511Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/app/favicon.ico
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/app/favicon.ico
+2026-07-29T13:50:36.511Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.512Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/app/globals.css
+2026-07-29T13:50:36.512Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/app/globals.css
+2026-07-29T13:50:36.512Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.512Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/app/layout.tsx
+2026-07-29T13:50:36.512Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/app/layout.tsx
+2026-07-29T13:50:36.512Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.525Z eslint:rules Loading rule 'constructor-super' (remaining=277)
+2026-07-29T13:50:36.525Z eslint:rules Loading rule 'getter-return' (remaining=276)
+2026-07-29T13:50:36.526Z eslint:rules Loading rule 'no-class-assign' (remaining=275)
+2026-07-29T13:50:36.526Z eslint:rules Loading rule 'no-const-assign' (remaining=274)
+2026-07-29T13:50:36.527Z eslint:rules Loading rule 'no-dupe-args' (remaining=273)
+2026-07-29T13:50:36.527Z eslint:rules Loading rule 'no-dupe-keys' (remaining=272)
+2026-07-29T13:50:36.528Z eslint:rules Loading rule 'no-func-assign' (remaining=271)
+2026-07-29T13:50:36.528Z eslint:rules Loading rule 'no-import-assign' (remaining=270)
+2026-07-29T13:50:36.528Z eslint:rules Loading rule 'no-new-native-nonconstructor' (remaining=269)
+2026-07-29T13:50:36.529Z eslint:rules Loading rule 'no-new-symbol' (remaining=268)
+2026-07-29T13:50:36.529Z eslint:rules Loading rule 'no-obj-calls' (remaining=267)
+2026-07-29T13:50:36.529Z eslint:rules Loading rule 'no-redeclare' (remaining=266)
+2026-07-29T13:50:36.530Z eslint:rules Loading rule 'no-setter-return' (remaining=265)
+2026-07-29T13:50:36.530Z eslint:rules Loading rule 'no-this-before-super' (remaining=264)
+2026-07-29T13:50:36.530Z eslint:rules Loading rule 'no-undef' (remaining=263)
+2026-07-29T13:50:36.531Z eslint:rules Loading rule 'no-unreachable' (remaining=262)
+2026-07-29T13:50:36.531Z eslint:rules Loading rule 'no-unsafe-negation' (remaining=261)
+2026-07-29T13:50:36.532Z eslint:rules Loading rule 'no-var' (remaining=260)
+2026-07-29T13:50:36.532Z eslint:rules Loading rule 'no-with' (remaining=259)
+2026-07-29T13:50:36.533Z eslint:rules Loading rule 'prefer-const' (remaining=258)
+2026-07-29T13:50:36.533Z eslint:rules Loading rule 'prefer-rest-params' (remaining=257)
+2026-07-29T13:50:36.533Z eslint:rules Loading rule 'prefer-spread' (remaining=256)
+2026-07-29T13:50:36.534Z eslint:rules Loading rule 'no-array-constructor' (remaining=255)
+2026-07-29T13:50:36.534Z eslint:rules Loading rule 'no-unused-vars' (remaining=254)
+2026-07-29T13:50:36.535Z eslint:rules Loading rule 'curly' (remaining=253)
+2026-07-29T13:50:36.535Z eslint:rules Loading rule 'no-unexpected-multiline' (remaining=252)
+2026-07-29T13:50:36.535Z eslint:rules Loading rule 'no-spaced-func' (remaining=251)
+2026-07-29T13:50:36.536Z eslint:rules Loading rule 'indent-legacy' (remaining=250)
+2026-07-29T13:50:36.536Z eslint:rules Loading rule 'array-bracket-newline' (remaining=249)
+2026-07-29T13:50:36.537Z eslint:rules Loading rule 'array-bracket-spacing' (remaining=248)
+2026-07-29T13:50:36.537Z eslint:rules Loading rule 'array-element-newline' (remaining=247)
+2026-07-29T13:50:36.538Z eslint:rules Loading rule 'arrow-parens' (remaining=246)
+2026-07-29T13:50:36.538Z eslint:rules Loading rule 'arrow-spacing' (remaining=245)
+2026-07-29T13:50:36.538Z eslint:rules Loading rule 'block-spacing' (remaining=244)
+2026-07-29T13:50:36.538Z eslint:rules Loading rule 'brace-style' (remaining=243)
+2026-07-29T13:50:36.538Z eslint:rules Loading rule 'comma-dangle' (remaining=242)
+2026-07-29T13:50:36.538Z eslint:rules Loading rule 'comma-spacing' (remaining=241)
+2026-07-29T13:50:36.539Z eslint:rules Loading rule 'comma-style' (remaining=240)
+2026-07-29T13:50:36.539Z eslint:rules Loading rule 'computed-property-spacing' (remaining=239)
+2026-07-29T13:50:36.539Z eslint:rules Loading rule 'dot-location' (remaining=238)
+2026-07-29T13:50:36.539Z eslint:rules Loading rule 'eol-last' (remaining=237)
+2026-07-29T13:50:36.539Z eslint:rules Loading rule 'func-call-spacing' (remaining=236)
+2026-07-29T13:50:36.540Z eslint:rules Loading rule 'function-call-argument-newline' (remaining=235)
+2026-07-29T13:50:36.540Z eslint:rules Loading rule 'function-paren-newline' (remaining=234)
+2026-07-29T13:50:36.540Z eslint:rules Loading rule 'generator-star-spacing' (remaining=233)
+2026-07-29T13:50:36.540Z eslint:rules Loading rule 'implicit-arrow-linebreak' (remaining=232)
+2026-07-29T13:50:36.540Z eslint:rules Loading rule 'indent' (remaining=231)
+2026-07-29T13:50:36.541Z eslint:rules Loading rule 'jsx-quotes' (remaining=230)
+2026-07-29T13:50:36.541Z eslint:rules Loading rule 'key-spacing' (remaining=229)
+2026-07-29T13:50:36.542Z eslint:rules Loading rule 'keyword-spacing' (remaining=228)
+2026-07-29T13:50:36.542Z eslint:rules Loading rule 'linebreak-style' (remaining=227)
+2026-07-29T13:50:36.542Z eslint:rules Loading rule 'lines-around-comment' (remaining=226)
+2026-07-29T13:50:36.543Z eslint:rules Loading rule 'max-len' (remaining=225)
+2026-07-29T13:50:36.543Z eslint:rules Loading rule 'max-statements-per-line' (remaining=224)
+2026-07-29T13:50:36.543Z eslint:rules Loading rule 'multiline-ternary' (remaining=223)
+2026-07-29T13:50:36.544Z eslint:rules Loading rule 'new-parens' (remaining=222)
+2026-07-29T13:50:36.544Z eslint:rules Loading rule 'newline-per-chained-call' (remaining=221)
+2026-07-29T13:50:36.544Z eslint:rules Loading rule 'no-confusing-arrow' (remaining=220)
+2026-07-29T13:50:36.544Z eslint:rules Loading rule 'no-extra-parens' (remaining=219)
+2026-07-29T13:50:36.545Z eslint:rules Loading rule 'no-extra-semi' (remaining=218)
+2026-07-29T13:50:36.545Z eslint:rules Loading rule 'no-floating-decimal' (remaining=217)
+2026-07-29T13:50:36.546Z eslint:rules Loading rule 'no-mixed-operators' (remaining=216)
+2026-07-29T13:50:36.546Z eslint:rules Loading rule 'no-mixed-spaces-and-tabs' (remaining=215)
+2026-07-29T13:50:36.546Z eslint:rules Loading rule 'no-multi-spaces' (remaining=214)
+2026-07-29T13:50:36.546Z eslint:rules Loading rule 'no-multiple-empty-lines' (remaining=213)
+2026-07-29T13:50:36.546Z eslint:rules Loading rule 'no-tabs' (remaining=212)
+2026-07-29T13:50:36.547Z eslint:rules Loading rule 'no-trailing-spaces' (remaining=211)
+2026-07-29T13:50:36.547Z eslint:rules Loading rule 'no-whitespace-before-property' (remaining=210)
+2026-07-29T13:50:36.547Z eslint:rules Loading rule 'nonblock-statement-body-position' (remaining=209)
+2026-07-29T13:50:36.547Z eslint:rules Loading rule 'object-curly-newline' (remaining=208)
+2026-07-29T13:50:36.547Z eslint:rules Loading rule 'object-curly-spacing' (remaining=207)
+2026-07-29T13:50:36.548Z eslint:rules Loading rule 'object-property-newline' (remaining=206)
+2026-07-29T13:50:36.548Z eslint:rules Loading rule 'one-var-declaration-per-line' (remaining=205)
+2026-07-29T13:50:36.548Z eslint:rules Loading rule 'operator-linebreak' (remaining=204)
+2026-07-29T13:50:36.548Z eslint:rules Loading rule 'padded-blocks' (remaining=203)
+2026-07-29T13:50:36.548Z eslint:rules Loading rule 'quote-props' (remaining=202)
+2026-07-29T13:50:36.549Z eslint:rules Loading rule 'quotes' (remaining=201)
+2026-07-29T13:50:36.549Z eslint:rules Loading rule 'rest-spread-spacing' (remaining=200)
+2026-07-29T13:50:36.549Z eslint:rules Loading rule 'semi' (remaining=199)
+2026-07-29T13:50:36.549Z eslint:rules Loading rule 'semi-spacing' (remaining=198)
+2026-07-29T13:50:36.550Z eslint:rules Loading rule 'semi-style' (remaining=197)
+2026-07-29T13:50:36.550Z eslint:rules Loading rule 'space-before-blocks' (remaining=196)
+2026-07-29T13:50:36.550Z eslint:rules Loading rule 'space-before-function-paren' (remaining=195)
+2026-07-29T13:50:36.550Z eslint:rules Loading rule 'space-in-parens' (remaining=194)
+2026-07-29T13:50:36.550Z eslint:rules Loading rule 'space-infix-ops' (remaining=193)
+2026-07-29T13:50:36.550Z eslint:rules Loading rule 'space-unary-ops' (remaining=192)
+2026-07-29T13:50:36.551Z eslint:rules Loading rule 'switch-colon-spacing' (remaining=191)
+2026-07-29T13:50:36.551Z eslint:rules Loading rule 'template-curly-spacing' (remaining=190)
+2026-07-29T13:50:36.551Z eslint:rules Loading rule 'template-tag-spacing' (remaining=189)
+2026-07-29T13:50:36.551Z eslint:rules Loading rule 'wrap-iife' (remaining=188)
+2026-07-29T13:50:36.551Z eslint:rules Loading rule 'wrap-regex' (remaining=187)
+2026-07-29T13:50:36.551Z eslint:rules Loading rule 'yield-star-spacing' (remaining=186)
+2026-07-29T13:50:36.562Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/app/page.tsx
+2026-07-29T13:50:36.562Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/app/page.tsx
+2026-07-29T13:50:36.562Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.562Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint-debug.log
+2026-07-29T13:50:36.562Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/eslint-debug.log
+2026-07-29T13:50:36.562Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.562Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs
+2026-07-29T13:50:36.562Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs
+2026-07-29T13:50:36.562Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.569Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/next-env.d.ts
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/next-env.d.ts
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.569Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/next.config.ts
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/next.config.ts
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/node_modules
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.569Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/package-lock.json
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/package-lock.json
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.569Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/package.json
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/package.json
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.569Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/pnpm-lock.yaml
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/pnpm-lock.yaml
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.569Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/postcss.config.mjs
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/postcss.config.mjs
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.569Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/public
+2026-07-29T13:50:36.570Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.571Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/public/file.svg
+2026-07-29T13:50:36.571Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/public/file.svg
+2026-07-29T13:50:36.571Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.571Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/public/globe.svg
+2026-07-29T13:50:36.571Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/public/globe.svg
+2026-07-29T13:50:36.571Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.571Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/public/next.svg
+2026-07-29T13:50:36.571Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/public/next.svg
+2026-07-29T13:50:36.571Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.571Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/public/vercel.svg
+2026-07-29T13:50:36.571Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/public/vercel.svg
+2026-07-29T13:50:36.571Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.571Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/public/window.svg
+2026-07-29T13:50:36.571Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/public/window.svg
+2026-07-29T13:50:36.571Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.571Z eslint:config-loader Calculating config for file /Users/sanscomp/Documents/Code projects/customer-workspace/tsconfig.json
+2026-07-29T13:50:36.571Z eslint:config-loader [Legacy]: Calculating config for /Users/sanscomp/Documents/Code projects/customer-workspace/tsconfig.json
+2026-07-29T13:50:36.571Z eslint:config-loader [Legacy]: Using config file /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs and base path /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.571Z eslint:eslint 5 file(s) found in 817 ms
+2026-07-29T13:50:36.571Z eslint:eslint Linting in single-thread mode.
+2026-07-29T13:50:36.571Z eslint:config-loader Looking up cached config for /Users/sanscomp/Documents/Code projects/customer-workspace/app/layout.tsx
+2026-07-29T13:50:36.571Z eslint:config-loader [Legacy]: Looking up cached config for /Users/sanscomp/Documents/Code projects/customer-workspace/app
+2026-07-29T13:50:36.572Z eslint:config-loader Looking up cached config for /Users/sanscomp/Documents/Code projects/customer-workspace/app/page.tsx
+2026-07-29T13:50:36.572Z eslint:config-loader [Legacy]: Looking up cached config for /Users/sanscomp/Documents/Code projects/customer-workspace/app
+2026-07-29T13:50:36.572Z eslint:config-loader Looking up cached config for /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs
+2026-07-29T13:50:36.572Z eslint:config-loader [Legacy]: Looking up cached config for /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.572Z eslint:config-loader Looking up cached config for /Users/sanscomp/Documents/Code projects/customer-workspace/next.config.ts
+2026-07-29T13:50:36.572Z eslint:config-loader [Legacy]: Looking up cached config for /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.572Z eslint:config-loader Looking up cached config for /Users/sanscomp/Documents/Code projects/customer-workspace/postcss.config.mjs
+2026-07-29T13:50:36.572Z eslint:config-loader [Legacy]: Looking up cached config for /Users/sanscomp/Documents/Code projects/customer-workspace
+2026-07-29T13:50:36.572Z eslint:eslint-helpers File "/Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs" read in 0 ms
+2026-07-29T13:50:36.572Z eslint:linter Linting code for /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs (pass 1)
+2026-07-29T13:50:36.572Z eslint:linter Verify
+2026-07-29T13:50:36.572Z eslint:linter With flat config: /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs
+2026-07-29T13:50:36.573Z eslint:languages:js Parsing: /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs
+2026-07-29T13:50:36.583Z eslint:languages:js Parsing successful: /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs
+2026-07-29T13:50:36.583Z eslint:languages:js Scope analysis: /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs
+2026-07-29T13:50:36.583Z eslint:languages:js Scope analysis successful: /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs
+2026-07-29T13:50:36.600Z eslint:linter Generating fixed text for /Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs (pass 1)
+2026-07-29T13:50:36.600Z eslint:source-code-fixer Applying fixes
+2026-07-29T13:50:36.600Z eslint:source-code-fixer shouldFix parameter was false, not attempting fixes
+2026-07-29T13:50:36.600Z eslint:eslint-helpers File "/Users/sanscomp/Documents/Code projects/customer-workspace/eslint.config.mjs" linted in 28 ms
+2026-07-29T13:50:36.601Z eslint:eslint-helpers File "/Users/sanscomp/Documents/Code projects/customer-workspace/next.config.ts" read in 29 ms
+2026-07-29T13:50:36.601Z eslint:linter Linting code for /Users/sanscomp/Documents/Code projects/customer-workspace/next.config.ts (pass 1)
+2026-07-29T13:50:36.601Z eslint:linter Verify
+2026-07-29T13:50:36.601Z eslint:linter With flat config: /Users/sanscomp/Documents/Code projects/customer-workspace/next.config.ts
+2026-07-29T13:50:36.601Z eslint:languages:js Parsing: /Users/sanscomp/Documents/Code projects/customer-workspace/next.config.ts
+2026-07-29T13:50:36.602Z eslint:languages:js Parsing successful: /Users/sanscomp/Documents/Code projects/customer-workspace/next.config.ts
+2026-07-29T13:50:36.602Z eslint:languages:js Scope analysis: /Users/sanscomp/Documents/Code projects/customer-workspace/next.config.ts
+2026-07-29T13:50:36.602Z eslint:languages:js Scope analysis successful: /Users/sanscomp/Documents/Code projects/customer-workspace/next.config.ts
+2026-07-29T13:50:36.606Z eslint:linter Generating fixed text for /Users/sanscomp/Documents/Code projects/customer-workspace/next.config.ts (pass 1)
+2026-07-29T13:50:36.606Z eslint:source-code-fixer Applying fixes
+2026-07-29T13:50:36.606Z eslint:source-code-fixer shouldFix parameter was false, not attempting fixes
+2026-07-29T13:50:36.606Z eslint:eslint-helpers File "/Users/sanscomp/Documents/Code projects/customer-workspace/next.config.ts" linted in 5 ms
+2026-07-29T13:50:36.607Z eslint:eslint-helpers File "/Users/sanscomp/Documents/Code projects/customer-workspace/postcss.config.mjs" read in 35 ms
+2026-07-29T13:50:36.607Z eslint:linter Linting code for /Users/sanscomp/Documents/Code projects/customer-workspace/postcss.config.mjs (pass 1)
+2026-07-29T13:50:36.607Z eslint:linter Verify
+2026-07-29T13:50:36.607Z eslint:linter With flat config: /Users/sanscomp/Documents/Code projects/customer-workspace/postcss.config.mjs
+2026-07-29T13:50:36.607Z eslint:languages:js Parsing: /Users/sanscomp/Documents/Code projects/customer-workspace/postcss.config.mjs
+2026-07-29T13:50:36.608Z eslint:languages:js Parsing successful: /Users/sanscomp/Documents/Code projects/customer-workspace/postcss.config.mjs
+2026-07-29T13:50:36.608Z eslint:languages:js Scope analysis: /Users/sanscomp/Documents/Code projects/customer-workspace/postcss.config.mjs
+2026-07-29T13:50:36.608Z eslint:languages:js Scope analysis successful: /Users/sanscomp/Documents/Code projects/customer-workspace/postcss.config.mjs
+2026-07-29T13:50:36.611Z eslint:linter Generating fixed text for /Users/sanscomp/Documents/Code projects/customer-workspace/postcss.config.mjs (pass 1)
+2026-07-29T13:50:36.611Z eslint:source-code-fixer Applying fixes
+2026-07-29T13:50:36.611Z eslint:source-code-fixer shouldFix parameter was false, not attempting fixes
+2026-07-29T13:50:36.611Z eslint:eslint-helpers File "/Users/sanscomp/Documents/Code projects/customer-workspace/postcss.config.mjs" linted in 4 ms
+2026-07-29T13:50:36.611Z eslint:eslint-helpers File "/Users/sanscomp/Documents/Code projects/customer-workspace/app/layout.tsx" read in 39 ms
+2026-07-29T13:50:36.611Z eslint:linter Linting code for /Users/sanscomp/Documents/Code projects/customer-workspace/app/layout.tsx (pass 1)
+2026-07-29T13:50:36.611Z eslint:linter Verify
+2026-07-29T13:50:36.611Z eslint:linter With flat config: /Users/sanscomp/Documents/Code projects/customer-workspace/app/layout.tsx
+2026-07-29T13:50:36.611Z eslint:languages:js Parsing: /Users/sanscomp/Documents/Code projects/customer-workspace/app/layout.tsx
+2026-07-29T13:50:36.616Z eslint:languages:js Parsing successful: /Users/sanscomp/Documents/Code projects/customer-workspace/app/layout.tsx
+2026-07-29T13:50:36.616Z eslint:languages:js Scope analysis: /Users/sanscomp/Documents/Code projects/customer-workspace/app/layout.tsx
+2026-07-29T13:50:36.616Z eslint:languages:js Scope analysis successful: /Users/sanscomp/Documents/Code projects/customer-workspace/app/layout.tsx
+2026-07-29T13:50:36.713Z eslint:linter Generating fixed text for /Users/sanscomp/Documents/Code projects/customer-workspace/app/layout.tsx (pass 1)
+2026-07-29T13:50:36.713Z eslint:source-code-fixer Applying fixes
+2026-07-29T13:50:36.713Z eslint:source-code-fixer shouldFix parameter was false, not attempting fixes
+2026-07-29T13:50:36.713Z eslint:eslint-helpers File "/Users/sanscomp/Documents/Code projects/customer-workspace/app/layout.tsx" linted in 102 ms
+2026-07-29T13:50:36.713Z eslint:eslint-helpers File "/Users/sanscomp/Documents/Code projects/customer-workspace/app/page.tsx" read in 141 ms
+2026-07-29T13:50:36.713Z eslint:linter Linting code for /Users/sanscomp/Documents/Code projects/customer-workspace/app/page.tsx (pass 1)
+2026-07-29T13:50:36.713Z eslint:linter Verify
+2026-07-29T13:50:36.713Z eslint:linter With flat config: /Users/sanscomp/Documents/Code projects/customer-workspace/app/page.tsx
+2026-07-29T13:50:36.713Z eslint:languages:js Parsing: /Users/sanscomp/Documents/Code projects/customer-workspace/app/page.tsx
+2026-07-29T13:50:36.718Z eslint:languages:js Parsing successful: /Users/sanscomp/Documents/Code projects/customer-workspace/app/page.tsx
+2026-07-29T13:50:36.718Z eslint:languages:js Scope analysis: /Users/sanscomp/Documents/Code projects/customer-workspace/app/page.tsx
+2026-07-29T13:50:36.718Z eslint:languages:js Scope analysis successful: /Users/sanscomp/Documents/Code projects/customer-workspace/app/page.tsx
+2026-07-29T13:50:36.744Z eslint:linter Generating fixed text for /Users/sanscomp/Documents/Code projects/customer-workspace/app/page.tsx (pass 1)
+2026-07-29T13:50:36.744Z eslint:source-code-fixer Applying fixes
+2026-07-29T13:50:36.744Z eslint:source-code-fixer shouldFix parameter was false, not attempting fixes
+2026-07-29T13:50:36.744Z eslint:eslint-helpers File "/Users/sanscomp/Documents/Code projects/customer-workspace/app/page.tsx" linted in 31 ms
