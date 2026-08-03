@@ -1,0 +1,90 @@
+[
+  {
+    "fullName": {
+      "first": "Johnny",
+      "last": "Darko"
+    },
+    "id": "1",
+    "dateOfBirth": "01/01/2000",
+    "email": "lorem@ipsum.com",
+    "phoneNumber": "09960123123",
+    "avatar": "https://picsum.photos"
+  },
+  {
+    "fullName": {
+      "first": "Jane",
+      "last": "Banko"
+    },
+    "id": "2",
+    "dateOfBirth": "04/06/1980",
+    "email": "lorem@ipsum.com",
+    "phoneNumber": "09960123123",
+    "avatar": "https://picsum.photos"
+  },
+  {
+    "fullName": {
+      "first": "Jerry",
+      "last": "Brown"
+    },
+    "id": "3",
+    "dateOfBirth": "16/08/2001",
+    "email": "lorem@ipsum.com",
+    "phoneNumber": "09960123123",
+    "avatar": "https://picsum.photos"
+  },
+  {
+    "fullName": {
+      "first": "Marcus",
+      "last": "Green"
+    },
+    "id": "4",
+    "dateOfBirth": "01/03/2000",
+    "email": "lorem@ipsum.com",
+    "phoneNumber": "09960123123",
+    "avatar": "https://picsum.photos"
+  },
+  {
+    "fullName": {
+      "first": "Barry",
+      "last": "Dean"
+    },
+    "id": "5",
+    "dateOfBirth": "24/07/1960",
+    "email": "lorem@ipsum.com",
+    "phoneNumber": "09960123123",
+    "avatar": "https://picsum.photos"
+  },
+  {
+    "fullName": {
+      "first": "Jen",
+      "last": "Canal"
+    },
+    "id": "6",
+    "dateOfBirth": "01/05/2000",
+    "email": "lorem@ipsum.com",
+    "phoneNumber": "09960123123",
+    "avatar": "https://picsum.photos"
+  },
+  {
+    "fullName": {
+      "first": "Krish",
+      "last": "Deck"
+    },
+    "id": "7",
+    "dateOfBirth": "01/01/1990",
+    "email": "lorem@ipsum.com",
+    "phoneNumber": "09960123123",
+    "avatar": "https://picsum.photos"
+  },
+  {
+    "fullName": {
+      "first": "Rose",
+      "last": "Black"
+    },
+    "id": "8",
+    "dateOfBirth": "05/01/2002",
+    "email": "lorem@ipsum.com",
+    "phoneNumber": "09960123123",
+    "avatar": "https://picsum.photos"
+  }
+]

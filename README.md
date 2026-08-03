@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Customer Support Console
+
+## Problem
+
+Support agents need to quickly find and review customer information during customer interactions. Delays in locating information can increase handling times and create a frustrating experience for both support staff and customers.
+
+## Goal
+
+Build an accessible customer lookup experience that enables support teams to efficiently search, review and manage customer information.
+
+## Current implementation
+
+- Defined a TypeScript customer data model.
+- Added a mock customer data source to support development before backend integration.
+- Introduced an API boundary between the UI and data source, allowing the underlying data source to be replaced without changing the frontend.
+
+## Technical approach
+
+The application communicates with customer data through an API layer rather than accessing the data source directly. Customer data is currently mocked locally to simulate backend responses, but this approach allows the data source to be replaced with a real backend API while keeping the UI implementation unchanged.
+
+## Planned improvements
+
+- Customer list
+- Search
+- Filtering
+- Sorting
+- Pagination
+- Customer details
+- Loading, empty and error states
+- Accessibility improvements
+- Testing
+- Refactoring
 
 ## Getting Started
 
-First, run the development server:
+Start the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 in your browser to view the application.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The customer API is available at:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+http://localhost:3000/api/customers
