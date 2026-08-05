@@ -13,6 +13,10 @@ Build an accessible customer lookup experience that enables support teams to eff
 - Defined a TypeScript customer data model.
 - Added a mock customer data source to support development before backend integration.
 - Introduced an API boundary between the UI and data source, allowing the underlying data source to be replaced without changing the frontend.
+- Added customer list view to display available customer information
+- Added reusable customer list components for displaying customer records
+- Maintained a separate API boundary for future client-driven features
+- Kept customer data access separated from UI concerns
 
 ## Technical approach
 

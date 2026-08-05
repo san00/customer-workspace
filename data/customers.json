@@ -1,6 +1,6 @@
 [
   {
-    "fullName": {
+    "name": {
       "first": "Johnny",
       "last": "Darko"
     },
@@ -11,7 +11,7 @@
     "avatar": "https://picsum.photos"
   },
   {
-    "fullName": {
+    "name": {
       "first": "Jane",
       "last": "Banko"
     },
@@ -22,7 +22,7 @@
     "avatar": "https://picsum.photos"
   },
   {
-    "fullName": {
+    "name": {
       "first": "Jerry",
       "last": "Brown"
     },
@@ -33,7 +33,7 @@
     "avatar": "https://picsum.photos"
   },
   {
-    "fullName": {
+    "name": {
       "first": "Marcus",
       "last": "Green"
     },
@@ -44,7 +44,7 @@
     "avatar": "https://picsum.photos"
   },
   {
-    "fullName": {
+    "name": {
       "first": "Barry",
       "last": "Dean"
     },
@@ -55,7 +55,7 @@
     "avatar": "https://picsum.photos"
   },
   {
-    "fullName": {
+    "name": {
       "first": "Jen",
       "last": "Canal"
     },
@@ -66,7 +66,7 @@
     "avatar": "https://picsum.photos"
   },
   {
-    "fullName": {
+    "name": {
       "first": "Krish",
       "last": "Deck"
     },
@@ -77,7 +77,7 @@
     "avatar": "https://picsum.photos"
   },
   {
-    "fullName": {
+    "name": {
       "first": "Rose",
       "last": "Black"
     },

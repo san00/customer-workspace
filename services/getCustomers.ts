@@ -1,14 +1,13 @@
 import { Customer } from '@/types/types'
-
+import { promises as fs } from 'fs'
 const getCustomers = async (): Promise<Customer[]> => {
-  const url = '/api/customers'
+  const file = await fs.readFile(process.cwd() + '/data/customers.json', 'utf8')
+  const data = JSON.parse(file)
   try {
-    const response = await fetch(url)
-    if (!response.ok) {
-      throw new Error(`Response status: ${response}`)
+    if (!data) {
+      throw new Error(`Response status: ${data.staus}`)
     }
-    const result = await response.json()
-    return result
+    return data
   } catch (error) {
     throw new Error('Failed to load customer data', { cause: error })
   }
